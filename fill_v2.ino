@@ -123,5 +123,5 @@ if(customKey == 'D'){
     }
   }
 Serial.println(targetVolume);
-// Serial.println(weight);
+Serial.println(weight);
 }
